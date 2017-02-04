@@ -1,5 +1,5 @@
 package id.sch.smktelkom_mlg.learn.recyclerview_2;
-// just import //
+
 import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.graphics.drawable.Drawable;
